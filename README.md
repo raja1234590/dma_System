@@ -123,18 +123,12 @@ t1 = time.time()
 
 ---
 
-## 🚀 Future Work
 
 * Implement **DMA-based transfer**
 * Compare CPU vs DMA performance
 * Measure speedup and efficiency
 
 ---
-
-## 🙌 Author
-
-**Kovuru Gnanaprakash**
-Aspiring AI Engineer | Embedded Systems Enthusiast
 
 ---
 
